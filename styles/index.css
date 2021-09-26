@@ -1,0 +1,9 @@
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+.inserted-svg {
+    width: 100%;
+    height: 100%;
+}
